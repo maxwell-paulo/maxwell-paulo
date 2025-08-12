@@ -73,7 +73,7 @@
 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxwell-paulo&layout=compact&langs_count=7&theme=dracula"/>
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=maxwell-paulo&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxwell-paulo&bg_color=282a36&color=f8f8f2&line=ff79c6&point=bd93f9&area=true&hide_border=true" />
 
 </a>
 
